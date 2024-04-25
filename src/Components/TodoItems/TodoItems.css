@@ -1,0 +1,23 @@
+.list-items {
+  background-color: coral;
+  height: 7vh;
+  width: 65vw;
+  list-style-type: none;
+  margin-bottom: 13px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.hh {
+  color: antiquewhite;
+  font-size: 17px;
+  width: 40vw;
+  margin-right: 55px;
+}
+.btnn {
+  border-radius: 8px;
+  border-color: #ffffff;
+  color: #ffffff;
+  background-color: coral;
+}
